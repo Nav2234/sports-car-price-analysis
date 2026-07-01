@@ -8,9 +8,9 @@ An end-to-end data analytics project — data curation, EDA, statistical correla
 
 ## Executive Summary
 
-**Business Problem:** The sports car market is highly competitive and price-opaque. Consumers, analysts, and dealerships lack a clear view of which performance specs (horsepower, torque, engine size, acceleration) actually justify a car's price — making it hard to buy smart, price competitively, or benchmark against rivals.
+**Business Problem:** The sports car market is highly competitive and price-opaque. Consumers, analysts, and dealerships lack a clear view of which performance specs (horsepower, torque, engine size, acceleration) actually justify a car's price, making it hard to buy smart, price competitively, or benchmark against rivals.
 
-**Solution:** I built a full analytics pipeline — sourcing and cleaning a 1,007-row / 38-brand dataset, engineering a composite "Performance Score," running correlation analysis in Excel, and shipping an interactive Tableau dashboard with brand, year, and price-tier filters — to quantify exactly which specs drive price and by how much.
+**Solution:** I built a full analytics pipeline sourcing and cleaning a 1,007-row / 38-brand dataset, engineering a composite "Performance Score," running correlation analysis in Excel, and shipping an interactive Tableau dashboard with brand, year, and price-tier filters to quantify exactly which specs drive price and by how much.
 
 **Key Numbers & Impact:**
 - **r = 0.80** — Horsepower is the strongest single predictor of price (after correcting a data quality error)
@@ -25,14 +25,14 @@ An end-to-end data analytics project — data curation, EDA, statistical correla
 
 ## Business Problem
 
-Sports car pricing varies enormously — from $25,000 entry-level performance cars to $5.2M hypercars — and it's unclear how much of that spread is explained by measurable performance (horsepower, torque, engine size, acceleration) versus brand prestige alone.
+Sports car pricing varies enormously — from $25,000 entry-level performance cars to $5.2M hypercars and it's unclear how much of that spread is explained by measurable performance (horsepower, torque, engine size, acceleration) versus brand prestige alone.
 
 **Why it matters:**
 - **Consumers** overpay (or underestimate value) without knowing which specs are actually price-justified.
 - **Manufacturers & dealerships** lack a data-driven benchmark for pricing strategy and product positioning.
 - **Analysts** need a reliable base for building predictive pricing models.
 
-**Goal:** Determine which performance variables most significantly impact sports car prices, and how those relationships shift across brands and market tiers — then package the findings into a tool stakeholders can actually use.
+**Goal:** Determine which performance variables most significantly impact sports car prices, and how those relationships shift across brands and market tiers then package the findings into a tool stakeholders can actually use.
 
 ---
 
