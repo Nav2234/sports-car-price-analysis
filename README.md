@@ -126,3 +126,10 @@ sports-car-price-analysis/
 - **Validation datasets:** [Car Price Analysis Dataset](https://www.kaggle.com/datasets/ayeshasiddiqa123/cars-pre/data), [Vehicle Price Prediction Dataset (Baselight/Kaggle)](https://baselight.app/u/kaggle/dataset/metawave_vehicle_price_prediction)
 - **Tools:** Microsoft Excel, Tableau Public
 
+## 👤 Author
+
+**Navjot Singh**  
+Aspiring Data Analyst | Python • SQL • EDA  
+[LinkedIn](https://www.linkedin.com/in/-navjotsingh) • [GitHub](https://github.com/Nav2234)
+
+---
